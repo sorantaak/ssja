@@ -26,6 +26,6 @@
   }
   body {
     @apply font-vazir;
-    direction: ltr;
+    direction: rtl;
   }
 }
